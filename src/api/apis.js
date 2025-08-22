@@ -2,7 +2,7 @@ import axios from "axios";
 
 // Creating an instance of axios
 const Api = axios.create({
-  baseURL: "https://furniture-be-egu4.onrender.com/",
+  baseURL: "https://furniture-be-egu4.onrender.com/api",
   headers: {
     "Content-Type": "application/json",
   },
