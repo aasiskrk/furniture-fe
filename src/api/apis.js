@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URL = "https://furniture-be-egu4.onrender.com/api";
+const API_URL = "https://furniture-be-egu4.onrender.com/";
 
 // Creating an instance of axios
 const Api = axios.create({
